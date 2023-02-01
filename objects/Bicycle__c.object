@@ -186,6 +186,18 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>Shipping_Instructions__c</fullName>
+        <externalId>false</externalId>
+        <label>Shipping Instructions</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Bicycle</label>
     <nameField>
         <label>Bicycle Name</label>
